@@ -16,9 +16,9 @@ public class tenth {
     System.out.println("Multiplication of matrix.");
     for (int i = 0; i < 2; i++) {
         for (int j = 0; j < 2; j++) {
-            System.out.println(arr3[i][j]+" ");
+            System.out.print(arr3[i][j]+" ");
         }
-        
+        System.out.println();
     }
 
     }
